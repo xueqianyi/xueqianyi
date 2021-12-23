@@ -62,3 +62,13 @@ translation and rotation, and a CNN is built for image classification.
 
 ## ACTIVITIES
 #### SICHUAN UNIVERSITY SPORTS PROMOTION ASSOCIATION | SEPT 2019-JUNE 2020
+- Supervised and coordinated the distribution of physical test volunteers of Sichuan University. 
+- Responsible for the promotion of the association's public account and daily publicity.
+- Awarded as the Excellent Volunteer of Sichuan University "Pentium Young Volunteer" in 2019~2020.
+
+#### POVERTY ALLEVIATION PROGRAM XIDE COUNTY, LIANGSHAN PREFECTURE, SICHUAN | JUL – AUG 2021
+- Used  VR  and  high-tech  tools  to  perform  science  lectures  on  disaster  prevention  and  mitigation  to residents.
+- Conducted questionnaire surveys related to disaster prevention and mitigation.
+- Organize residents to conduct earthquake drills.
+
+#### CHENGDU BLOOD CENTER UNPAID BLOOD DONATION ACTIVITY, BLOOD DONOR
