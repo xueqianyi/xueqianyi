@@ -1,5 +1,5 @@
 # Qianyi Xue (Selina)
-Address: Jiang'an Campus, Sichuan University, Chengdu, China    | Phone: 18501384113  | Email: xueqianyi222@gmail.com
+Address: Jiang'an Campus, Sichuan University, Chengdu, China    | Phone: 18501384113  | Email: xueqianyi222@gmail.com, xueqianyi@stu.scu.edu.cn
   
 ## EDUCATION
 #### SICHUAN UNIVERSITY | SEPT 2019-Present
