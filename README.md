@@ -1,5 +1,5 @@
 # Qianyi Xue (Selina)
-Address: Jiang'an Campus, Sichuan University, Chengdu, China    | Phone: 18501384113  | Email: xueqianyi222@gmail.com, xueqianyi@stu.scu.edu.cn
+Address: Jiang'an Campus, Sichuan University, Chengdu, China    | Phone: 18501384113  | Email: xueqianyi222@gmail.com, qianyi.xue@duke.edu
   
 ## EDUCATION
 #### NATIONAL UNIVERSITY OF SINGAPORE (REMOTE)  | 05/2022 – 07/2022   
@@ -8,9 +8,11 @@ Address: Jiang'an Campus, Sichuan University, Chengdu, China    | Phone: 1850138
 #### UCLA SUMMER ONLINE COURSE |  08/2021 – 09/2021
 - Main Course: Introduction to Computation and Optimization for Statistics
 #### SICHUAN UNIVERSITY | 09/2019 – Present
-- Bachelor of Engineering in Sichuan University  |  Computer Science |  GPA: 3.78/4.0
+- Bachelor of Engineering in Sichuan University  |  Computer Science |  GPA(WES): 3.84/4.0
+- National Scholarship (2/252) for the academic year 2021-2022 | Sept.2022
 - Freshman comprehensive ranking: 28/254
 - Sophomore comprehensive ranking:  9/254
+- Course: Java Programming (96), Data Structure and Algorithm Analysis (93), Discrete Mathematics (99), Operating System (92), Principle of Database System (94), Practice in Advanced Software Engineering (95), Principle of Compiler (91).
 ##  AWARDS
 -	National Second Prize (15%), The 11th Asia and Pacific Mathematical Contest in Modeling (APMCM) | Nov. 2021
 - Provincial First Prize (5%-7%), 2021 China Undergraduate Mathematical Contest in Modeling | Oct. 2021           
@@ -25,12 +27,15 @@ Address: Jiang'an Campus, Sichuan University, Chengdu, China    | Phone: 1850138
 
 
 ## SKILLS & INTERESTS
-- ##### Programming Language: C, C++, Java, Python,R, SQL, dart.
-- ##### Software Application: SPSS, STATA, Microsoft Office (Word, Excel, PowerPoint, Access). 
+- ##### Languages: Python (advanced), Java (intermediate), C++ (intermediate), SQL (intermediate), JavaScript, dart, Shell.
+- ##### Frameworks: Spring MVC, NodeJS, Flutter, PyTorch & Hugging Face (AI Framework).
+- #####	Developer Tools: Linux, Git, Relational Databases, MySQL, Redis. 
+- #####	Software Applications: Anaconda, SPSS, Matlab, Arduino.
+- #####	Certifications & Training: Introduction to Computation and Optimization for Statistics (UCLA summer online course 2021), Web Mining (NUS School of Computing Summer Workshop 2022).
 - ##### Interests: Playing piano, painting, and reading.
 
 ## PROJECT & RESEARCH EXPERIENCES
-##### WEST CHINA BIOMEDICAL BIG DATA CENTER, SICHUAN UNIVERSITY | INTERN             03/2022 - Present
+##### WEST CHINA BIOMEDICAL BIG DATA CENTER, SICHUAN UNIVERSITY | INTERN             04/2022 - 02/2023
 Project: Optimize the mRNA vaccine sequence algorithm for the covid-19                       
 Supervisor: Prof. Xiaobo Zhou
 - Investigated a multilingual machine translation model and applied it to the joint translation of the 3'UTR and 5'UTR of mRNA. 
