@@ -2,6 +2,9 @@
 Address: Jiang'an Campus, Sichuan University, Chengdu, China    | Phone: 18501384113  | Email: xueqianyi222@gmail.com, qianyi.xue@duke.edu
   
 ## EDUCATION
+#### DUKE UNIVERSITY, Durham, NC, USA                                               |          08/2023 - 05/2025 (Expected)
+ - Master of Science in Electrical & Computer Engineering (Major: Software Development)
+
 #### NATIONAL UNIVERSITY OF SINGAPORE (REMOTE)  | 05/2022 – 07/2022   
 - School of Computing Summer Workshop 2022   |    GPA: A-  
 - Main Course: Introduction to Computation and Optimization for Statistics
